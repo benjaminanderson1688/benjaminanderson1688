@@ -1,16 +1,14 @@
-## Hi there 👋
+## Benjamin
 
-<!--
-**benjaminanderson1688/benjaminanderson1688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught Software Engineer | Azure | Redis | Building automation frameworks
 
-Here are some ideas to get you started:
+### Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Azure
+- Redis
+- Python
+- GitHub Actions
+- Docker
+
+---
+*New York, NY*
